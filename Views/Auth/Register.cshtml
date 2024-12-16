@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";    
+}
+<h2>Registro</h2>
+<form asp-action="Register" method="post">
+    <div class="form-outline mb-4">
+        <input type="text" name="username" class="form-control form-control-lg" required/>
+        <label class="form-label" for="form1Example13">Usuario</label>
+    </div>
+    <!-- Contraseña -->
+    <div class="form-outline mb-4">
+        <input type="password" name="PasswordHash" class="form-control form-control-lg" required/>
+        <label class="form-label">Password</label>
+    </div>
+    <!-- Submit button -->
+    <button type="submit" class="btn btn-primary btn-lg btn-block">Registrar</button>
+    <a asp-controller="Auth" asp-action="Login" class="btn btn-primary btn-lg btn-block">Login</a> 
+</form>

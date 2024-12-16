@@ -1,0 +1,32 @@
+1.- Verifica la versión de .NET, recuerda que este proyecto fue desarrollado con .NET 8.0.403:
+        dotnet --version
+2.- Para crear el proyecto:
+        dotnet new mvc -n Clase10
+        cd Clase10
+3.- Paquetes necesarios para MongoDB y la gestión de contraseñas:
+        dotnet add package MongoDB.Driver
+        dotnet add package Microsoft.AspNetCore.Identity
+        dotnet add package BCrypt.Net-Next
+
+4.- Modelos necesarios:
+        En el directorio Models, cree los siguientes modelos
+                User
+4.- Configuración MongoDB:
+        En el directorio Models, cree el archivo MongoDbContext.cs
+        Agregue esta linea en el archivo Programs.cs "builder.Services.AddSingleton<ProductContext>();"
+        Agregue estas lineas en appsettings.json
+                "ConnectionStrings": {
+                "MongoDb": "mongodb+srv://user_uss:uss.2024@cluster0.680w7bl.mongodb.net/Test01?retryWrites=true&w=majority"
+                }, 
+5.- Controlador:
+        En el directorio Controllers, cree los siguientes controlador
+                AuthController.cs, este contendrá la logica para el inicio de sessión y gestión de usuarios 
+                HomeController.cs, este contendrá la logica para el dashboard
+
+8.- MasterPage:
+        Cree el archivo _LoginLayout.cshtml, se usará como MasterPage del modulo Auth
+        Cree el archivo _HomeLayout.cshtml, se usará como MasterPage del modulo Home
+        
+7.- CSS:
+        Agregue el achivo login.css en wwwroot/css/
+        Agregue el archivo dashboard.css en wwwroot/css/

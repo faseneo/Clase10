@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>@ViewData["Title"] - Clase10</title>
+        <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+        <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+       <link rel="stylesheet" href="~/css/dashboard.css" asp-append-version="true" />
+    </head>
+    <body>
+        <div class="container-fluid display-table">
+            <div class="row display-table-row">
+                <div class="col-md-2 col-sm-1 hidden-xs display-table-cell v-align box" id="navigation">
+                    <div class="logo">
+                        <a hef="home.html"><img src="https://simulador.uss.cl/images/pages/login/logo-uss.webp" alt="merkery_logo" class="hidden-xs hidden-sm">
+                            <img src="https://simulador.uss.cl/images/pages/login/logo-uss.webp" alt="logo" class="visible-xs visible-sm circle-logo">
+                        </a>
+                    </div>
+                    <div class="navi">
+                        <ul>
+                            <li class="active"><a href="#"><i class="fa fa-home" aria-hidden="true"></i><span class="hidden-xs hidden-sm">Home</span></a></li>
+                            <li><a asp-controller="Auth" asp-action="Register"><i class="fa fa-tasks" aria-hidden="true"></i><span class="hidden-xs hidden-sm">Productos</span></a></li>
+                            <li><a asp-controller="Auth" asp-action="Register"><i class="fa fa-tasks" aria-hidden="true"></i><span class="hidden-xs hidden-sm">Caategoría</span></a></li>
+                            <li><a asp-controller="Auth" asp-action="Register"><i class="fa fa-user" aria-hidden="true"></i><span class="hidden-xs hidden-sm">Usuarios</span></a></li>
+                            <li><a asp-controller="Auth" asp-action="Logout"><i class="fa fa-cog" aria-hidden="true"></i><span class="hidden-xs hidden-sm">Cerrar Session</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-10 col-sm-11 display-table-cell v-align">
+                    <div class="user-dashboard">
+                        @RenderBody()
+                    </div>
+                </div>
+            </div>
+        </div>    
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        @await RenderSectionAsync("Scripts", required: false)
+    </body>
+</html>

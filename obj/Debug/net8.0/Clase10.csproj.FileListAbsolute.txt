@@ -1,0 +1,80 @@
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\Clase10.csproj.AssemblyReference.cache
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\Clase10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\Clase10.AssemblyInfoInputs.cache
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\Clase10.AssemblyInfo.cs
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\Clase10.csproj.CoreCompileInputs.cache
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\Clase10.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\Clase10.RazorAssemblyInfo.cache
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\Clase10.RazorAssemblyInfo.cs
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\bin\Debug\net8.0\appsettings.json
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\bin\Debug\net8.0\Clase10.staticwebassets.runtime.json
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\bin\Debug\net8.0\Clase10.exe
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\bin\Debug\net8.0\Clase10.deps.json
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\bin\Debug\net8.0\Clase10.runtimeconfig.json
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\bin\Debug\net8.0\Clase10.dll
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\bin\Debug\net8.0\Clase10.pdb
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\bin\Debug\net8.0\DnsClient.dll
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\bin\Debug\net8.0\Snappier.dll
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\staticwebassets\msbuild.Clase10.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\staticwebassets\msbuild.build.Clase10.props
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Clase10.props
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Clase10.props
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\scopedcss\bundle\Clase10.styles.css
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\scopedcss\projectbundle\Clase10.bundle.scp.css
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\Clase10.csproj.Up2Date
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\Clase10.dll
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\refint\Clase10.dll
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\Clase10.pdb
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\Clase10.genruntimeconfig.cache
+C:\Users\rene\Documents\01 Trabajo\01 Universidad\02_Uss\2024\Progra02\Semana10\Clase10\obj\Debug\net8.0\ref\Clase10.dll
+D:\Semana10\bin\Debug\net8.0\appsettings.Development.json
+D:\Semana10\bin\Debug\net8.0\appsettings.json
+D:\Semana10\bin\Debug\net8.0\Clase10.staticwebassets.runtime.json
+D:\Semana10\bin\Debug\net8.0\Clase10.exe
+D:\Semana10\bin\Debug\net8.0\Clase10.deps.json
+D:\Semana10\bin\Debug\net8.0\Clase10.runtimeconfig.json
+D:\Semana10\bin\Debug\net8.0\Clase10.dll
+D:\Semana10\bin\Debug\net8.0\Clase10.pdb
+D:\Semana10\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Semana10\bin\Debug\net8.0\DnsClient.dll
+D:\Semana10\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Semana10\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\Semana10\bin\Debug\net8.0\SharpCompress.dll
+D:\Semana10\bin\Debug\net8.0\Snappier.dll
+D:\Semana10\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Semana10\bin\Debug\net8.0\ZstdSharp.dll
+D:\Semana10\obj\Debug\net8.0\Clase10.csproj.AssemblyReference.cache
+D:\Semana10\obj\Debug\net8.0\Clase10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semana10\obj\Debug\net8.0\Clase10.AssemblyInfoInputs.cache
+D:\Semana10\obj\Debug\net8.0\Clase10.AssemblyInfo.cs
+D:\Semana10\obj\Debug\net8.0\Clase10.csproj.CoreCompileInputs.cache
+D:\Semana10\obj\Debug\net8.0\Clase10.MvcApplicationPartsAssemblyInfo.cache
+D:\Semana10\obj\Debug\net8.0\Clase10.RazorAssemblyInfo.cache
+D:\Semana10\obj\Debug\net8.0\Clase10.RazorAssemblyInfo.cs
+D:\Semana10\obj\Debug\net8.0\staticwebassets.build.json
+D:\Semana10\obj\Debug\net8.0\staticwebassets.development.json
+D:\Semana10\obj\Debug\net8.0\staticwebassets\msbuild.Clase10.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Semana10\obj\Debug\net8.0\staticwebassets\msbuild.build.Clase10.props
+D:\Semana10\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Clase10.props
+D:\Semana10\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Clase10.props
+D:\Semana10\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Semana10\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Semana10\obj\Debug\net8.0\scopedcss\bundle\Clase10.styles.css
+D:\Semana10\obj\Debug\net8.0\scopedcss\projectbundle\Clase10.bundle.scp.css
+D:\Semana10\obj\Debug\net8.0\Clase10.csproj.Up2Date
+D:\Semana10\obj\Debug\net8.0\Clase10.dll
+D:\Semana10\obj\Debug\net8.0\refint\Clase10.dll
+D:\Semana10\obj\Debug\net8.0\Clase10.pdb
+D:\Semana10\obj\Debug\net8.0\Clase10.genruntimeconfig.cache
+D:\Semana10\obj\Debug\net8.0\ref\Clase10.dll
